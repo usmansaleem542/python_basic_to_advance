@@ -1,0 +1,6 @@
+*.png
+*.mkv
+*.pyc
+.idea
+__pycache__
+other/*
